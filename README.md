@@ -12,20 +12,6 @@ Junior Java → CTO in 7 years. I still write code.
 
 ---
 
-### GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samehadar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samehadar&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samehadar&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### About me
 
 - CTO overseeing 6 products and 30+ engineers across SportTech, AdTech, video streaming, and web scraping
@@ -68,6 +54,20 @@ Junior Java → CTO in 7 years. I still write code.
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+### GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samehadar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samehadar&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samehadar&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
