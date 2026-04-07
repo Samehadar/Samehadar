@@ -12,6 +12,20 @@ Junior Java → CTO in 7 years. I still write code.
 
 ---
 
+### GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samehadar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samehadar&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samehadar&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ### About me
 
 - CTO overseeing 6 products and 30+ engineers across SportTech, AdTech, video streaming, and web scraping
@@ -89,20 +103,6 @@ Conference talks:
 - **Fundamental Responsibility of a Team Lead** — what really happens in people's heads (Dats.Team Workshop)
 - **Improving Testing Quality with Trunk-Based Development** — practices and culture (Dats.Team Conference, Bishkek)
 - **Community of Practice & the Aeilus Methodology** — building cross-team knowledge sharing (Dats.Team Mono-Meetup)
-
----
-
-### GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samehadar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samehadar&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samehadar&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
