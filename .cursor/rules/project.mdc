@@ -1,0 +1,26 @@
+---
+description: Project rules for Samehadar GitHub profile README
+alwaysApply: true
+---
+
+# Samehadar — Project Rules
+
+## Project
+
+GitHub profile README repository. Contains `README.md` and `banner.png`.
+
+## Conventions
+
+- Keep README concise and visually clean.
+- No code comments unless explaining non-obvious intent.
+- Do not rename existing methods or fields.
+- Do not perform major refactoring unless explicitly asked.
+
+## Git
+
+- Never change git config. All commits must be from `Vitaly Lyutarevich <vitaly.lyutarevich@gmail.com>`.
+- Never commit or push without explicit user permission.
+
+## Author
+
+Vitaly Lyutarevich (EN), Виталий Лютаревич (RU), Witalis Lutorowicz (PL).
